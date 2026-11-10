@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kajol1106/LeetCode-DSA-Journey/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0709-to-lower-case](https://github.com/Kajol1106/LeetCode-DSA-Journey/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
