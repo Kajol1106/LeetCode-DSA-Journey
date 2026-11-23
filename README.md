@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Kajol1106/LeetCode-DSA-Journey/tree/master/0412-fizz-buzz) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Kajol1106/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Kajol1106/LeetCode-DSA-Journey/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
